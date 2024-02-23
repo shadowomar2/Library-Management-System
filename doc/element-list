@@ -1,0 +1,9 @@
+com.example.demo
+com.example.demo.aspect
+com.example.demo.config
+com.example.demo.controllers
+com.example.demo.entities
+com.example.demo.exception
+com.example.demo.models
+com.example.demo.repositories
+com.example.demo.services
